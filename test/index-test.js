@@ -1,4 +1,4 @@
-nodvar index = require("../index.js")
+var index = require("../index.js")
 
 /*
 describe('what-is-a-test', () => {
